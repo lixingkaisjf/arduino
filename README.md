@@ -1,1 +1,1 @@
-serialEvent       串口通信事件
+serialEvent------------------串口通信事件
